@@ -63,4 +63,4 @@ jobs:
           app-name: 'cccastro2-WebApp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_39E3E0320517453E82EFA8D5282B449C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_484E6EE4210A4B739036097B8D7D00AB }}
